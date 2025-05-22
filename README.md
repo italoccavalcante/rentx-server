@@ -51,7 +51,7 @@ business logic and data persistence. This application was developed from scratch
 - Automatic generation of a Refresh Token
 - Generation of a new password after email confirmation.
 
-# Data Base Diagram :
+# Data Base Diagram
 ![DB Diagram](image.png)
 
 
